@@ -1,4 +1,4 @@
-const API_URL = "/api/contrats";
+const API_URL = "https://b4a0b0bf-1bf0-4dcd-9284-f7445bdab625-00-39xjq7sgktbi3.kirk.replit.dev/api/contrats";
 
 
 fetch(API_URL)
